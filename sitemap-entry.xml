@@ -1,0 +1,7 @@
+<!-- 把這段 <url> 加進網站根目錄現有的 sitemap.xml 的 <urlset> 裡面 -->
+<url>
+  <loc>https://vangatechai.com/games/onepunch-hero/</loc>
+  <lastmod>2026-10-01</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
